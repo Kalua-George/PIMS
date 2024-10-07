@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+
+....................................first..................................................................
+<DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PublicPage</title>
+    <link rel="stylesheet" href="STYLES/public-page.css">
+</head>
+<body>
+    <!-the heder content will be discussed by the group.. how it supposed to look this is just a dummy-->
+    <header>
+        PIMS
+    </header>
+    <!--the header ends here-->
+
+    <!--the main content of the landing page for the public to use it should take them to forms and feedback-->
+    <main>
+        <div style="text-align: center; background-color: #98b4cc00; font-size: 30px;">
+            <!--make sure you include the comment for the inline style you use so that it should be easy to understand-->
+            PRISON INFORMATION MANAGEMENT SYSTEM <br>
+    
+        </div>
+        <div class="links">
+            <div class="application">
+                <a href="application-page.html" style="background-color:#05532d00">APPLY FOR <br> A VISIT</a>
+            </div>
+            <div class="application">
+                <a href="" style="background-color: #05532d00;">APPLICATION FEEDBACK</a>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <!--footer information to be put here for the mean time it is just dummy data-->
+
+          <div style=" padding-right:20px; background: #05532d00; border-right: 1px solid white">
+                <p>
+                contact
+                <p>
+                    phone: 0999232333
+                    <br>
+                    email: mavyete@gmail.com 
+                    <br>
+                    tel: 0122334456
+                </p>
+                </div>
+                <div>
+                    <p>
+                social media
+                        <br>
+                    twitter
+                    <br>
+                    facebook
+                    <br>
+                    instagram
+                    <br>
+                    
+                </p>
+                </div>
+            </div>
+    </footer>
+</body>
+</html>
